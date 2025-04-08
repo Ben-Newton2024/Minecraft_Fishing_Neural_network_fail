@@ -1,4 +1,4 @@
-I beleive i made this mostly from ripping it from youtube projects and code online.
+I believe i made this mostly from ripping it from youtube projects and code online.
 
 it used to just be a pxel colour checker that would take a screen shot of the screen - mostly a minecraft window
 when the pixel colour depth changed it would reel the fishing rod in
